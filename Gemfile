@@ -39,6 +39,11 @@ gem 'spree_social_products', github: 'spree-contrib/spree_social_products', bran
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+# PayU India gem - To pay with PayU payment gateway
+gem 'payuindia', :git => 'git://github.com/payu-india/payuindia.git'
+
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
